@@ -2,7 +2,11 @@
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
+.logo{
+    width: 350px;
+    margin: auto 30%;
 
+}
 body {
     background-color: #f6f8fc;
 }
